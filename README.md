@@ -1,4 +1,6 @@
-Graduate-Projects
+Performance-Comparison-of-Advanced-Data-Structures
 =================
 
-All academic projects undertaken while completing Masters from University of Florida
+•	Implemented AVL, Red-black, B-trees using hash-table front-end to compare their relative performance.
+
+Language Used: Java
